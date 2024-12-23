@@ -57,6 +57,13 @@ Blissify is a comprehensive mental wellness application designed to help users m
 - **Audio**: Web Audio API
 - **Routing**: React Router
 
+### 🎥 Video Demonstration
+Watch the video demonstration here: [Blissify](https://youtu.be/aGS19Yhrsug)
+
+### 🌐 Live Web App
+You can try out the live version of Blissify here: [Netlify Live Link](https://teal-kitten-c46790.netlify.app/)
+
+
 ## Getting Started
 
 1. Clone the repository

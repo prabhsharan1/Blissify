@@ -1,6 +1,6 @@
 # Blissify - Your Mental Wellness Companion 🌿
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github)](https://github.com/prabhsharan1/Blissify)  
+![Blissify](https://images.unsplash.com/photo-1545205597-3d9d02c29597?auto=format&fit=crop&q=80&w=1000)
 
 ---
 

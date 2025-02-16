@@ -6,7 +6,9 @@
 
 ## 🏆 Winner of Mindfulness Hacks 2024
 
-### **Award**: Interview Cake Licenses (1 Winner)
+### **Prizes Won**
+- **Certopus Verified Certificates** ([View Certificate](https://drive.google.com/file/d/1DDrYY62fIPZPZLHnbj6q1npLdYajfDyc/view?usp=drivesdk))
+- **Interview Cake Licenses** ([License](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Ffallontonight-funny-lol-88iYsvbegSUn9bSTF8&psig=AOvVaw3lKKXfbz0c_zzdbljHBtA9&ust=1739803592935000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJj10s63yIsDFQAAAAAdAAAAABAJ))
 
 Blissify was developed as part of **Mindfulness Hacks 2024**, a hackathon by the **Student Code Alliance**, where it was recognized for its innovative approach to emotional tracking and wellness activities. 
 

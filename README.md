@@ -63,6 +63,12 @@ src/
 
 ---
 
+## Recognition 🏆
+
+This project was also a winner in the **Dev Challenge Hackathon**, recognized for its innovative approach to mental wellness and emotional tracking.
+
+---
+
 ## 🛠️ Installation & Setup
 
 ### 1️⃣ Clone the Repository

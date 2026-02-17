@@ -4,11 +4,19 @@
 
 ---
 
-## 🏆 Winner of Mindfulness Hacks 2024
+## 🏆 Winner of Mindfulness Hacks 2024 & PeerBridge Mental Health Hacks 2026
 
 ### **Prizes Won**
 - **Certopus Verified Certificates** ([View Certificate](https://drive.google.com/file/d/1DDrYY62fIPZPZLHnbj6q1npLdYajfDyc/view?usp=drivesdk))
 - **Interview Cake Licenses** ([License](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Ffallontonight-funny-lol-88iYsvbegSUn9bSTF8&psig=AOvVaw3lKKXfbz0c_zzdbljHBtA9&ust=1739803592935000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJj10s63yIsDFQAAAAAdAAAAABAJ))
+- **$25 Cash Prize**
+- **1-year subscriptions for NordVPN, NordPass, NordProtect and Incogni**
+- **1 GB of free data for Saily**
+- **3-month access and credit for nexos.ai**
+- **Interview Buddy AI interview voucher**
+- **Interview Buddy 10% coupon code for 1:1 expert-driven mock interviews ($10)**
+- **Certificate of Achievement**
+- **Free position at PeerBridge**
 
 Blissify was developed as part of **Mindfulness Hacks 2024**, a hackathon by the **Student Code Alliance**, where it was recognized for its innovative approach to emotional tracking and wellness activities. 
 
